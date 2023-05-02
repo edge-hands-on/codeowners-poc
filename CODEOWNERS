@@ -1,0 +1,4 @@
+*                                                             @edge-hands-on/team-owners
+/output-config/gateway-envoy-template-dev-fra.yaml            @edge-hands-on/team-owners @edge-hands-on/team-developers
+/output-config/gateway-envoy-template-staging-fra.yaml        @edge-hands-on/team-owners @edge-hands-on/team-developers
+/output-config/gateway-envoy-template-live-fra.yaml           @edge-hands-on/team-owners
